@@ -1,6 +1,6 @@
 # Password-Strength-Checker-Tool
 It is a command line Password Strength Checking Tool written in Python programming language./
-It takes your password as a input and tells the strength of your password and it also checks your password from a list of 100 mostcommon passwords to check if your password is a common password or not.
+It takes your password as a input and tells the strength of your password and it also checks your password from a list of 100 most common passwords to check if your password is a common password or not.
 
 # Steps to run the Password Strength Checker Tool:
 
